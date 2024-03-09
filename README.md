@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vansh Raghav  <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Python and Web Application (and a beginner designer) developer from India</h3>
 
-- 🔭 I’m currently working on my **React Course**
+- 🔭 I’m currently working on my **MERN stack Projects**
 
-- 🌱 I’m currently learning **React , Node**
+- 🌱 I’m currently learning **Node**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
 - 📫 How to reach me: **vanshraghav2018@gmail.com**
 
-- ⚡ What I like to do: **I like so much binge-watching ,Playing Football ...and coding of course**
+- ⚡ What I like to do: **I like binge-watching ,Playing Football ...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -54,4 +54,4 @@
 
 [Vansh Raghav](https://github.com/vanshraghav)
 
-Last Edited on: 27/08/2023
+Last Edited on: 09/03/2024
