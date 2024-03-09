@@ -46,7 +46,7 @@
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=vanshraghav&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/wakatime?username=@018e239d-1fb0-4df9-ae2c-b0141e0b9f0c)](https://github.com/vanshraghav/github-readme-stats)" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/wakatime?username=vanshraghav2018@gmail.com )](https://github.com/vanshraghav/github-readme-stats)" />
 </p>
 
 ------
