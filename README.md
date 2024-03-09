@@ -45,7 +45,7 @@
 </p>
 
 <p align= "center">
-  <img height= "150" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)" />
+ ![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
   <img height= "150" src="https://github-readme-stats.vercel.app/api/wakatime?username=vanshraghav2018@gmail.com )](https://github.com/vanshraghav/github-readme-stats)" />
 </p>
 
