@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vansh Raghav  <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Vansh Raghav  </h1>
 <h3 align="center">A passionate Python and Web Application (and a beginner designer) developer from India</h3>
 
 - 🔭 I’m currently working on my **MERN stack Projects**
